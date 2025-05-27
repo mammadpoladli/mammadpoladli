@@ -1,6 +1,11 @@
 <h1 align="center">Hi 👋, I'm MAMMAD</h1>
 <h3 align="center">A software developer from Azerbaijan</h3>
 
+
+I'm studying on Kocaeli University 👨🏻‍🎓
+I am currently learning html, javascript, node.js 👨🏻‍💻
+Ability to write code in C, Python and Java 💻
+
 - 📫 How to reach me **poladlimemmed@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
