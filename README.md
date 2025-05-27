@@ -3,7 +3,7 @@
 
 
 - I'm studying at Kocaeli University 👨🏻‍🎓
-- I am currently learning html, javascript, node.js 👨🏻‍💻
+- I am currently learning html, css, javascript, node.js 👨🏻‍💻
 - Ability to write code in C, Python and Java 💻
 
 - 📫 How to reach me: **poladlimemmed@gmail.com**
