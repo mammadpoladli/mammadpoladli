@@ -2,7 +2,7 @@
 <h3 align="center">A software developer from Azerbaijan</h3>
 
 
-- I'm studying on Kocaeli University 👨🏻‍🎓
+- I'm studying at Kocaeli University 👨🏻‍🎓
 - I am currently learning html, javascript, node.js 👨🏻‍💻
 - Ability to write code in C, Python and Java 💻
 
